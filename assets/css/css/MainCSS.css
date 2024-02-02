@@ -1,0 +1,91 @@
+#OnaHeroBanner {
+  text-align: center;
+  font-size: 54px;
+  color: rgb(228,228,228);
+  font-weight: bold;
+  font-family: Montserrat, sans-serif;
+  --bs-body-font-weight: normal;
+  text-shadow: 0px 6px 15px rgba(0,0,0,0.6);
+}
+
+#HeroAboutUs {
+  background: linear-gradient(-116deg, #aecf47 3%, rgba(113,181,127,0.67) 26%, rgba(44,154,191,0.67) 40%, rgba(7,140,225,0.38) 52%, rgba(14,33,11,0) 83%);
+  border-radius: 120px;
+  border-bottom-right-radius: 33px;
+  margin-top: 88px;
+  margin-bottom: 116px;
+  height: 363PX;
+  width: 1180px;
+}
+
+#s2_home {
+  height: 485PX;
+  margin-bottom: 1px;
+}
+
+#s3_home {
+  height: 667PX;
+  margin-bottom: 152px;
+  font-size: 20px;
+  padding-top: 74px;
+  margin-top: 2px;
+  background: linear-gradient(-105deg, rgba(57,135,249,0.65), rgba(77,147,219,0.48) 25%, rgba(153,192,102,0.8874853801169591) 85%, #aecd46), url("../../../assets/img/ona_logo-bg.webp");
+}
+
+#s4_home {
+  height: 712px;
+  padding-bottom: 0px;
+  margin-bottom: 120px;
+  background: linear-gradient(-13deg, rgba(24,110,195,0.96) 2%, rgba(100,159,129,0.8982683982683983) 52%, rgba(141,187,117,0.9217053233074595) 80%, rgba(191,220,102,0.83) 90%), url("../../../assets/img/4.jpg") center;
+  border-radius: 56px;
+  margin-left: 60px;
+  width: 1140px;
+}
+
+#s5_home {
+  height: 669px;
+  background: linear-gradient(168deg, #3b99e0 19%, rgba(123,198,142,0.8376845973939191) 47%, rgba(206,255,38,0.63) 60%, white 85%), url("../../../assets/img/logonav.webp");
+  padding-bottom: 0px;
+  margin-top: 22px;
+  padding-top: 0px;
+  margin-bottom: 114px;
+}
+
+#s6_home {
+  height: 669px;
+  background: linear-gradient(140deg, #3b99e0 0%, rgba(197,255,0,0.54) 68%, white 85%), url("../../../assets/img/ona_logo-bg.webp") center / cover;
+  padding-bottom: 0px;
+  margin-bottom: 28px;
+  margin-top: 22px;
+  padding-top: 0px;
+  border-radius: 30px;
+}
+
+#cont_map {
+  padding-top: 2px;
+}
+
+#map_dg {
+  margin-top: 2px;
+  padding-bottom: 0px;
+  margin-bottom: 46px;
+  height: 515px;
+}
+
+#ona_footer {
+  background: linear-gradient(123deg, #2b2f32, #2a2f18 71%, #17354b), #2b2f32;
+  padding-top: 17px;
+  padding-bottom: 19px;
+}
+
+#map_dg {
+  width: 1186px;
+  margin-right: 0px;
+  margin-left: 36px;
+  border-radius: 37px;
+  width: 1186px;
+  margin-right: 0px;
+  margin-left: 36px;
+  border-radius: 37px;
+}
+
