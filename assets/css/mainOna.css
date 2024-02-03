@@ -11,16 +11,16 @@
   position: fixed;
   bottom: -60px;
   right: 20px;
-  background-color: #007bff;
+  background-color: #3987f9;
   color: #fff;
   padding: 10px 20px;
   border: none;
-  border-radius: 5px;
+  border-radius: 7px;
   cursor: pointer;
   transition: background-color 0.3s, bottom 0.3s;
 }
 
 .back-to-top:hover {
-  background-color: #0056b3;
+  background-color: #aecd46;
 }
 
