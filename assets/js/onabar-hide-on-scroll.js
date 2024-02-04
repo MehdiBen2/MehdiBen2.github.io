@@ -2,9 +2,9 @@ var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
   var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
-    document.getElementById("onabar").style.top = "0";
+    document.getElementById("OnaNav_Bar").style.top = "0";
   } else {
-    document.getElementById("onabar").style.top = "-73px";
+    document.getElementById("OnaNav_Bar").style.top = "-73px";
   }
   prevScrollpos = currentScrollPos;
 } 

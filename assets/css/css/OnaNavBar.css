@@ -1,0 +1,38 @@
+a {
+  color: #6d8de1;
+}
+
+@media (min-width:1200px) {
+  .container {
+    /*padding-right: 15px;*/
+    /*padding-left: 15px;*/
+  }
+}
+
+@media (min-width:576px) {
+  .container {
+    width: 540px;
+    max-width: 100%;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    width: 1140px;
+    max-width: 100%;
+  }
+}
+
+img {
+  vertical-align: middle;
+}
+
+a, area, button, [role="button"], input, label, select, summary, textarea {
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+

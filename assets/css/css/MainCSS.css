@@ -24,12 +24,13 @@
 }
 
 #s3_home {
-  height: 667PX;
-  margin-bottom: 152px;
   font-size: 20px;
-  padding-top: 74px;
-  margin-top: 2px;
   background: linear-gradient(-105deg, rgba(57,135,249,0.65), rgba(77,147,219,0.48) 25%, rgba(153,192,102,0.8874853801169591) 85%, #aecd46), url("../../../assets/img/ona_logo-bg.webp");
+  padding-top: 74px;
+  margin-bottom: 152px;
+  margin-top: 2px;
+  height: 666PX;
+  width: 100%;
 }
 
 #s4_home {
@@ -39,6 +40,8 @@
   background: linear-gradient(-13deg, rgba(24,110,195,0.96) 2%, rgba(100,159,129,0.8982683982683983) 52%, rgba(141,187,117,0.9217053233074595) 80%, rgba(191,220,102,0.83) 90%), url("../../../assets/img/4.jpg") center;
   border-radius: 56px;
   margin-left: 60px;
+  width: 1124px;
+  height: 764px;
   width: 1140px;
 }
 
@@ -99,5 +102,50 @@
   text-shadow: 0px 3px 12px;
   position: sticky;
   top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: auto;
+  width: 100%;
+}
+
+#Roles_3 {
+  margin-right: 30px;
+  margin-left: -16px;
+  margin-bottom: 16px;
+}
+
+#pM2 {
+  margin-top: 36px;
+  width: 516px;
+}
+
+#pM1 {
+  margin-left: -30px;
+  padding-left: 16px;
+  padding-right: 12px;
+  padding-top: 10px;
+  height: 232px;
+  background: linear-gradient(74deg, #aecd46, #daf18e 64%, rgb(159,200,17) 100%), #aecd46;
+  border-radius: 25px;
+}
+
+#rowonagreen {
+  width: 548px;
+}
+
+.linesOna {
+  font-size: 24px;
+  margin-bottom: 28px;
+}
+
+#blueroleona {
+  padding-left: 18px;
+  margin-left: -20px;
+  margin-right: 10px;
+  padding-right: 0px;
+  border-radius: 25px;
+  background: linear-gradient(131deg, #3c7ad5, rgb(89,150,238) 58%, #3987f9 100%), #3987f9;
 }
 

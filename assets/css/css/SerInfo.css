@@ -1,13 +1,13 @@
 .PageHeader {
   color: var(--bs-body-color);
-  font-size: 40px;
+  font-size: 35px;
   height: 200px;
   margin-top: 146px;
   line-height: 45px;
 }
 
 #descOna {
-  background: linear-gradient(-150deg, rgba(189,211,114,0.81) 24%, #00b5d6 42%, rgba(19,39,68,0.77) 93%), rgba(9,142,228,0.19);
+  background: linear-gradient(-179deg, rgba(189,211,114,0.81) 24%, #00b5d6 48%, rgba(19,39,68,0.77) 93%), rgba(9,142,228,0.19);
   height: 781.547px;
 }
 
@@ -73,6 +73,7 @@
   margin-bottom: 42px;
   color: var(--bs-body-color);
   line-height: 30px;
+  text-align: left;
 }
 
 .Services_titles {
@@ -213,7 +214,7 @@
 .PageParag {
   border-radius: 20px;
   color: #ebebeb;
-  font-size: 22px;
+  font-size: 20px;
   text-align: left;
   width: 402px;
   margin-bottom: 74px;
