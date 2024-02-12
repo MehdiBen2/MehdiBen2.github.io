@@ -1087,7 +1087,7 @@ iframe {
 
 @media (min-width: 768px) {
   .mt-md-5 {
-    margin-top: 3rem !important;
+    /*margin-top: 3rem !important;*/
   }
 }
 
