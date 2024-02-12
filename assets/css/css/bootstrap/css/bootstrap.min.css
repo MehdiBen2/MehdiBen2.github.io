@@ -157,6 +157,7 @@ h1, .h1 {
 @media (min-width: 1200px) {
   h1, .h1 {
     font-size: 2.5rem;
+    color: rgb(0,2,6);
   }
 }
 
@@ -203,7 +204,7 @@ b, strong {
   font-weight: bolder;
 }
 
-a {
+Zonelink {
   color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
   text-decoration: underline;
 }
@@ -793,6 +794,7 @@ iframe {
 
 .d-inline {
   display: inline !important;
+  font-size: 68px;
 }
 
 .d-inline-block {
@@ -944,7 +946,7 @@ iframe {
 }
 
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 0rem !important;
   padding-bottom: 3rem !important;
 }
 
@@ -1280,7 +1282,7 @@ html, body {
 
 .service_texts {
   margin-left: 25px;
-  font-size: 18px;
+  font-size: 20px;
   margin-right: 14px;
   margin-top: 20px;
   /*font-weight: 520;*/
@@ -1290,6 +1292,6 @@ html, body {
 .service_bg_color {
   padding-right: 40px;
   border-radius: 30px;
-  background: linear-gradient(169deg, #9eb845 0%, rgb(96,145,141) 71%, rgb(68,127,174) 87%, #256bd3 100%), rgba(174,205,70,0);
+  background: linear-gradient(140deg, #9eb845 0%, rgb(96,145,141) 68%, #256bd3 100%), rgba(174,205,70,0);
 }
 

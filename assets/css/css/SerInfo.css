@@ -22,7 +22,7 @@
 }
 
 #backroundOna {
-  background: url("../../../assets/img/400582837_218552114607985_6198989075818683063_n.jpg") center / cover;
+  background: url("../../../assets/img/BannerService.webp") center / cover;
   height: 781PX;
 }
 
@@ -102,11 +102,13 @@
 
 #rowOnaServ2 {
   margin-top: 18px;
+  transform: scale(0.89);
 }
 
 #rowOnaServ1 {
   height: auto;
-  margin-bottom: 42px;
+  transform: scale(0.89);
+  margin-bottom: 0px;
 }
 
 #StepsBanner {
